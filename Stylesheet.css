@@ -19,7 +19,7 @@ margin:auto;
  }
 h1{ 
   font-size:30px;
-  color : grey;
+  color : black;
   margin-top: 20px;
   margin-bottom: 20px;
   font-size: 175%;
@@ -28,18 +28,18 @@ h1{
 
 
 #Chicken{
-background-color:#AAAA41;
+background-color:#F3B0DE;
 
 }
 
 #Beef{
 
-	background-color:#FAAA10;
+	background-color:#EC5750;
 
 }
 
 #Sushi{
-	background-color:#C4C4C4;
+	background-color:#f2f59f;;
 
 }
 .food{
