@@ -15,8 +15,7 @@ margin:auto;
 }
 
 .container{
-width: 100%;
-overflow: none;
+overflow: auto;
 }
 
 *{
@@ -24,7 +23,6 @@ overflow: none;
  	font-family:Comic Sans MS,Geneva,Georgia;
  }
 h1{ 
-  font-size:30px;
   color : black;
   margin-top: 20px;
   margin-bottom: 20px;
