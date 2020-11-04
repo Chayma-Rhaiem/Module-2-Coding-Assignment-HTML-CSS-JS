@@ -1,19 +1,24 @@
+.row{
+  width:100%;
+
+}
 
 *{
 	box-sizing:border-box;
- 	font-family:Verdana,Geneva,Georgia;
+ 	font-family:Geneva,Georgia,Comic Sans MS;
  }
 
-.row{
-  width:100%;
-}
 .content {
 border: 1px solid black;
 background-color: #ecf3f4;
 position: relative;
+margin:auto;
 padding:10px;
+
 }
+
 h1{ 
+  font-size:30px;
   color : grey;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -23,7 +28,7 @@ h1{
 
 
 #Chicken{
-background-color:#AAAA41;
+	background-color:#AAAA41;
 
 }
 
@@ -41,7 +46,7 @@ background-color:#AAAA41;
   text-align: center;
   float: right;
   border: 1px solid black;
-  width: 120px;
+  width: 100px;
   margin-top: -10px;
   margin-right: -10px;
   padding: 5px;
